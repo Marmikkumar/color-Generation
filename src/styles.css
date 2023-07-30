@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.generator {
+  position: absolute;
+  top: 20vh;
+  left: 10vw;
+  display: flex;
+  border: 2px solid red;
+}
+
+form {
+  margin: 2vh;
+}
+
+.btn {
+  font-size: 1rem;
+}
+
+.box {
+  height: 5vh;
+  width: 5vw;
+  border: 2px solid black;
+  margin: 2vh;
+}
